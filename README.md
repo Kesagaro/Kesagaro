@@ -11,7 +11,11 @@
 - **Herramientas / Tools:** Git, Linux, VS Code, BlueJ, Astah (UML), LaTeX
 - **IA / AI:** Claude Code
 
-## 🚀 Proyecto destacado / Featured project
+## 🚀 Proyectos destacados / Featured projects
+
+**slotMachine** ([Ciclo 4](https://github.com/Kesagaro/Ciclo-No-4-2026-2)) · Simulador de tragamonedas en Java (POO, Swing) basado en el *Problem I – Slot Machine* de la ICPC World Finals 2025. Desarrollado en equipo en 4 ciclos: simulador gráfico, operaciones sobre ruedas, resolución automática (solve) y refactoring con nuevos tipos de ruedas y símbolos. Diseño en UML con Astah.
+*Java slot machine simulator based on an ICPC World Finals 2025 problem, built as a team over 4 iterations: GUI, solver and an extensible OOP design.*
+
 
 **BosqueFarma** (en desarrollo / in progress) · Aplicación de escritorio en Java Swing para gestionar una farmacia: inicio de sesión con roles, turnos por cédula, CRUD de medicamentos, órdenes y reportes.
 *Java Swing desktop app for pharmacy management: role-based login, patient queue, medication CRUD, orders and reports.*
